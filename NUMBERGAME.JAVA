@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-
 public class NumberGuessingGame {
     private static final int MAX_ATTEMPTS = 5;
     private static final int MIN_NUMBER = 1;
